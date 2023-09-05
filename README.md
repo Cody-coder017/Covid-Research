@@ -1,5 +1,8 @@
 # Time-Series-Analysis-Of-COVID-19-In-India
 
+![image](https://github.com/Venkatakrishnan-Ramesh/Time-Series-Analysis-Of-COVID-19-In-India/assets/74406604/ecac5c72-e935-43a1-92f6-af017999d5fb)
+
+
 ## **GOAL :**
 _________________________________________
 
